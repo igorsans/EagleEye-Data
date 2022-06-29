@@ -13,7 +13,7 @@ Projeto desenvolvido para conclusão do modulo 3 do Bootcamp Resilia Educação,
 <!--te-->
 # Team
 - <a href="https://github.com/BarbaraGuimaraes21">Barbara Guimarães</a>
-- <a href="https://github.com/elicadv">Elica Dias</a>
+- <a href="https://github.com/elicadv">Elica Dias.</a>
 - <a href="https://github.com/est8r">Ester Messias</a>
 - <a href="https://github.com/Henry-Januario">Henry Januario</a>
 - <a href="https://github.com/igorsans">Igor Santos</a>
