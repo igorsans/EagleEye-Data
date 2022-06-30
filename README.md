@@ -1,5 +1,5 @@
 # EagleEye Data
-<img src="./media/logogithub.png"></img>
+<img src="./Media/logogithub.png"></img>
 A Black Sheep Games uma empresa nova de desenvolvimento de jogos entrou em contato com a EagleEye Data em busca de dados que direcione a criação dos seus primeiros jogos para que sejam um sucesso, utilizamos a maior plataforma de distribuição de jogos para PC para que isso fosse possivel.
 
 # Sobre
@@ -7,13 +7,13 @@ Projeto desenvolvido para conclusão do modulo 3 do Bootcamp Resilia Educação,
 
 # Dashbord
 Utilizamos de dashboards pra ilustrar os dados retornados das buscas realizadas para que o cliente tenha uma direção para realizar suas metas.
-<a href="https://infogram.com/9f066796-86ac-4488-877a-8c465fe91058" style="color:#989898!important;text-decoration:none!important;" target="_blank"><img src="./media/dashboards.png"></img>
+<a href="https://infogram.com/9f066796-86ac-4488-877a-8c465fe91058" style="color:#989898!important;text-decoration:none!important;" target="_blank"><img src="./Media/dashboards.png"></img>
 EagleEye Dashboard</a>
 
 ## Apresentação
 A apresentação desses dados e sua importancia para o cliente foram apresentados em uma reunião.
 
-<img src="./media/EagleEye Data.jpg"></img>
+<img src="./Media/EagleEye Data.jpg"></img>
 # Team
 - <a href="https://github.com/BarbaraGuimaraes21">Barbara Guimarães</a>
 - <a href="https://github.com/elicadv">Elica Dias.</a>
@@ -21,7 +21,7 @@ A apresentação desses dados e sua importancia para o cliente foram apresentado
 - <a href="https://github.com/Henry-Januario">Henry Januario</a>
 - <a href="https://github.com/igorsans">Igor Santos</a>
 
-<img src="./media/3.jpg"></img>
+<img src="./Media/3.jpg"></img>
 
 ## table of contents
 <!--ts-->
